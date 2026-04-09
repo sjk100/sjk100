@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sjk100/sjk100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a maths graduate transitioning into data analytics, building my skills in **Python**, **SQL**, and data-driven problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, SQL  
+- **Tools:** Excel, Git, GitHub  
+- **Concepts:** Data Cleaning, Exploratory Data Analysis, Statistics  
+
+---
+
+## Projects
+
+Here are a few things I'm working on:
+
+- 🎮 **vg_sales** – This project takes a flat CSV of video game sales rankings and transforms it into a normalised relational database, then uses that database to answer a single business question:
+
+**Where is the best opportunity to enter the video game market as a new publisher?** 
+
+👉 *More projects coming soon…*
