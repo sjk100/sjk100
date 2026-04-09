@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there ✌️
 
 I'm a maths graduate transitioning into data analytics, building my skills in **Python**, **SQL**, and data-driven problem solving.
 
@@ -21,3 +21,5 @@ Here are a few things I'm working on:
 **Where is the best opportunity to enter the video game market as a new publisher?** 
 
 👉 *More projects coming soon…*
+
+<img src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400">
