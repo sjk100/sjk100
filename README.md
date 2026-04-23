@@ -1,6 +1,6 @@
 # Hello there ✌️
 
-I'm a maths graduate transitioning into data analytics, building my skills in **Python**, **SQL**, and data-driven problem solving.
+I'm a maths graduate transitioning into data science, building my skills in **Python**, **SQL**, and machine learning.
 
 ---
 
