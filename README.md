@@ -7,8 +7,7 @@ I'm a maths graduate transitioning into data science, building my skills in **Py
 ## Skills
 
 - **Languages:** Python, SQL  
-- **Tools:** Excel, Git, GitHub  
-- **Concepts:** Data Cleaning, Exploratory Data Analysis, Statistics  
+- **Tools:** Excel, Tableau, Jupyter  
 
 ---
 
