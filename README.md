@@ -21,6 +21,6 @@ Here are a few things I'm working on:
 
 - 💜🤖 **[twitch_creator_analysis](https://github.com/sjk100/twitch_creator_analysis)** — Segments 1,000 Twitch creators into partnership tiers using K-Means clustering, then combines a tier classifier and live viewership gap model to identify other creators whose content quality exceeds their current market price.
 
-- Churn Project Loading...
+- 📉📞 **telco_customer_churn** — Predicts which telecom customers are most likely to leave, then turns model scores into a recall-first retention strategy so teams can prioritise outreach to the highest-risk customers.
 
 👉 *More projects coming soon…*
