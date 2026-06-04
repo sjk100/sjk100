@@ -23,4 +23,6 @@ Here are a few things I'm working on:
 
 - 📉📞 **[telco_customer_churn](https://github.com/sjk100/telco_customer_churn)** — Predicts which telecom customers are most likely to leave, then turns model scores into a recall-first retention strategy so teams can prioritise outreach to the highest-risk customers.
 
+- 🚂🎮 **[steam_indie_opportunity_engine](https://github.com/sjk100/steam_indie_opportunity_engine)** — A public, interactive analytics and data science product that helps users explore Steam market opportunities and produces strategic recommendations for indie publishers. **(In Progress)**
+
 👉 *More projects coming soon…*
